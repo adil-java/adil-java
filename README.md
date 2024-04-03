@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adijavaa&label=Profile%20views&color=0e75b6&style=flat" alt="adijavaa" /> </p>
 
-- 🌱 I’m currently learning **MERN stack Web Developement**
+- 🌱 I’m currently learning **MERN stack Web Development**
 
 - 📫 How to reach me **adiljavaid125@gmail.com**
 
