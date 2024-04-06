@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/javascipt-f3db1d?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23f3db1d&color=%23F7DF1E"/>
   <br/>
   <img alt="Static Badge" src="https://img.shields.io/badge/node%20JS-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=%23000000&color=%23339933">
-    <img alt="Static Badge" src="https://img.shields.io/badge/express-%2300000?style=for-the-badge&logo=express&logoColor=%23000000&color=%23c3002f">
   <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=%2347A248&color=%23000000">
 
   
