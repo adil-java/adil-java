@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/badge/javascipt-f3db1d?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23f3db1d&color=%23F7DF1E"/>
   <br/>
   <img alt="Static Badge" src="https://img.shields.io/badge/node%20JS-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=%23000000&color=%23339933">
+
+<img src="https://img.shields.io/badge/React-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Badge">
+
   <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=%2347A248&color=%23000000">
 
   
