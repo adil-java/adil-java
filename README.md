@@ -12,7 +12,7 @@
 <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adijavaa&theme=tokyonight">
 </p>
 <p align='center'>
-  I’m currently Learning MERN<br/><br/>
+  I’m currently Learning <b>MERN Stack</b><br/><br/>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26"/>  
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6&color=%231572B6"/>
   <img src="https://img.shields.io/badge/javascipt-f3db1d?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23f3db1d&color=%23F7DF1E"/>
