@@ -1,4 +1,6 @@
 <h1 align = "center" > Hi there 👋 I'm Adil Javed 👨‍💻</h1>
+<br></br>
+<h3 align="center">Engineering Student<h3>
 
 <p align = "center">
   <a href=https://linktr.ee/adiljaved>
