@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://linktr.ee/adiljaved">
     <img src="https://img.shields.io/badge/Contact%20Me-39E09B?style=for-the-badge&logoColor=white" alt="Contact Me" />
-    <img src="https://img.shields.io/badge/Phone-%F0%9F%93%B1-39E09B?style=for-the-badge&logoColor=white" alt="Phone Icon" />
   </a>
 </p>
 
