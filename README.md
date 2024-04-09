@@ -1,10 +1,12 @@
 <h1 align = "center" > Hi there 👋 I'm Adil Javed 👨‍💻</h1>
 <h3 align="center">Engineering Student<h3>
 
-<p align = "center">
-  <a href=https://linktr.ee/adiljaved>
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+<p align="center">
+  <a href="https://linktr.ee/adiljaved">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Contact Me" />
+  </a>
 </p>
+
 
 <p align="center">
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/66108643da1671f98628eb10?variant=dark" alt="roadmap.sh"/></a>
