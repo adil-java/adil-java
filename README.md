@@ -12,7 +12,7 @@
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/66108643da1671f98628eb10?variant=dark" alt="roadmap.sh"/></a>
 </p>
 <p align = "center"> 
-<img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adijavaa&theme=tokyonight">
+<img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adil-java&theme=tokyonight">
 </p>
 <p align='center'>
   I’m currently Learning <b>MERN Stack</b><br/><br/>
