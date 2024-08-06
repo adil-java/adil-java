@@ -1,7 +1,6 @@
-<h1 align = "center" > Hi there 👋 I'm Adil Javed 👨‍💻</h1>
-<h3 align="center">Engineering Student<h3>
-<h1 align="center"> Hi there 👋 I'm Adil Javed 👨‍💻</h1>
-<h3 align="center">Engineering Student</h3>
+
+<h1 align="center"> Hi there 👋 I'm Adil Javed 👨‍💻</h1><br>
+<h3 align="center">A passionate software developer and Student from Pakistan</h3>
 
 <p align="center">
   <a href="https://linktr.ee/adiljaved">
