@@ -9,7 +9,7 @@
 
 
 <p align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adil-java&theme=dark)
+<a src = "(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adil-java&theme=dark)">
 </p>
 <p align = "center"> 
 <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adil-java&theme=tokyonight">
