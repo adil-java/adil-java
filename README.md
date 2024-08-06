@@ -1,7 +1,8 @@
 
-<h1 align="center"> Hi there 👋 I'm Adil Javed 👨‍💻</h1><br>
+<h1 align="center"> Hi there 👋 I'm Adil Javed 👨‍💻</h1><hr>
 <h3 align="center">A passionate software developer and Student from Pakistan</h3>
-<br>
+<hr>
+
 <p align="center">
   <a href="https://linktr.ee/adiljaved">
     <img src="https://img.shields.io/badge/Contact%20Me-39E09B?style=for-the-badge&logoColor=white" alt="Contact Me" />
