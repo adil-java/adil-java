@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/66108643da1671f98628eb10?variant=dark" alt="roadmap.sh"/></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adil-java&theme=dark)
 </p>
 <p align = "center"> 
 <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adil-java&theme=tokyonight">
