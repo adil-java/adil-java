@@ -30,6 +30,7 @@
 # 📊 GitHub Stats:
 
 <p>
+  <img src="https://github.com/adil-java/adil-java/raw/main/profile-summary-card-output/zenburn/0-profile-details.svg" height="180" alt="languages graph" style="max-width: 100%;">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=adil-java&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adil-java&theme=transparent&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil-java&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
