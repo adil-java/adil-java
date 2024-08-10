@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="https://linktr.ee/adiljaved%22" target="_blank">
+  <a href="https://linktr.ee/adiljaved" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Contact&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
 </div>
