@@ -50,6 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adil-java/adil-java/output/snake.svg" alt="Snake animation" />
 
-###
+
+
