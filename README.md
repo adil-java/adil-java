@@ -165,9 +165,6 @@ const adil = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adil-java&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" height="180" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adil-java&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="180" alt="streak graph" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adil-java&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" height="150" alt="languages graph" />
 </div>
