@@ -5,7 +5,7 @@
 <h3 align="center">Full Stack Developer from Pakistan | Crafting Robust APIs & Scalable Systems</h3>
 
 <p align="center">
-<a href=https://github.com/adil-java/adil-java/blob/main/Adil-Javed-cv.pdf">
+<a href=https://github.com/adil-java/adil-java/blob/main/Adil-Javed-cv.pdf>
     <img src="https://img.shields.io/badge/📄_Download_CV-6366F1?style=for-the-badge&logoColor=white" alt="Download CV" />
   </a>
   <img width="10" />
