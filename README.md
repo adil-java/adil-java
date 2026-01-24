@@ -5,9 +5,10 @@
 <h3 align="center">Full Stack Developer from Pakistan | Crafting Robust APIs & Scalable Systems</h3>
 
 <p align="center">
-  <a href="https://linktr.ee/adiljaved" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contact&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
+<a href="https://github.com/adil-java/adil-java/raw/main/Adil_Javed_CV.pdf">
+    <img src="https://img.shields.io/badge/📄_Download_CV-6366F1?style=for-the-badge&logoColor=white" alt="Download CV" />
   </a>
+  <img width="10" />
   <img src="https://komarev.com/ghpvc/?username=adil-java&style=for-the-badge&color=6366f1" alt="Profile Views" />
 </p>
 
