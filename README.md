@@ -13,7 +13,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 ```javascript
 const adil = {
@@ -22,22 +22,22 @@ const adil = {
   currentFocus: "Building RESTful APIs & Microservices",
   learning: ["System Design", "Cloud Architecture", "DevOps"],
   askMeAbout: ["Node.js", "Express", "Databases", "API Design"],
-  funFact: "I debug with console.log and I'm not ashamed 😄",
+  funFact: "I debug with console.log and I'm not ashamed ",
 };
 ```
 
-- 🔭 Currently building **scalable backend systems** and **RESTful APIs**
-- 🌱 Exploring **microservices architecture** and **cloud technologies**
-- 💬 Ask me about **Node.js, Express, MongoDB, MySQL, API Design**
-- ⚡ Passionate about writing **clean, efficient, and maintainable code**
+- Currently building **scalable backend systems** and **RESTful APIs**
+- Exploring **microservices architecture** and **cloud technologies**
+- Ask me about **Node.js, Express, MongoDB, MySQL, API Design**
+- Passionate about writing **clean, efficient, and maintainable code**
 
 ---
 
-## 🛠️ Backend Tech Stack
+## Backend Tech Stack
 
 <div align="center">
 
-### ⚙️ Languages & Runtimes
+###  Languages & Runtimes
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs" />
@@ -55,7 +55,7 @@ const adil = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp" />
 </p>
 
-### 🖥️ Frameworks & Libraries
+### Frameworks & Libraries
 
 <p>
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express" />
@@ -67,7 +67,7 @@ const adil = {
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="35" alt="jwt" />
 </p>
 
-### 🗄️ Databases & Storage
+### Databases & Storage
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb" />
@@ -79,7 +79,7 @@ const adil = {
   <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis" />
 </p>
 
-### 🔧 DevOps & Tools
+### DevOps & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker" />
@@ -93,7 +93,7 @@ const adil = {
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode" />
 </p>
 
-### ☁️ Cloud & Deployment
+###  Cloud & Deployment
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws" />
@@ -109,7 +109,7 @@ const adil = {
 
 ---
 
-## 🎯 What I Do
+##  What I Do
 
 <table>
 <tr>
@@ -125,7 +125,7 @@ const adil = {
 </td>
 <td width="50%">
 
-### 🗃️ Database Management
+###  Database Management
 
 - Schema Design & Optimization
 - Query Performance Tuning
@@ -137,7 +137,7 @@ const adil = {
 <tr>
 <td width="50%">
 
-### 🔐 Authentication & Security
+###  Authentication & Security
 
 - JWT & OAuth Implementation
 - Role-Based Access Control
@@ -147,7 +147,7 @@ const adil = {
 </td>
 <td width="50%">
 
-### 📈 Performance & Scalability
+###  Performance & Scalability
 
 - Caching Strategies (Redis)
 - Load Balancing Concepts
@@ -160,7 +160,7 @@ const adil = {
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adil-java&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" height="180" alt="stats graph" />
@@ -177,20 +177,12 @@ const adil = {
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/adil-java/adil-java/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=%22First%2C+solve+the+problem.%22;%22Then%2C+write+the+code.%22;-+John+Johnson" alt="Quote" />
 </div>
 
 <div align="center">
-  <b>💼 Open for Backend Development Opportunities!</b>
+  <b> Open for Backend Development Opportunities!</b>
   <br><br>
   <a href="https://linktr.ee/adiljaved">
     <img src="https://img.shields.io/badge/Let's_Connect-6366F1?style=for-the-badge&logo=handshake&logoColor=white" alt="Connect" />
