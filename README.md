@@ -22,9 +22,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adil-java&style=flat-square&color=6366f1" alt="Profile Views" />
-</p>
 
 ---
 
@@ -180,5 +177,8 @@ const adil: Developer = {
 </p>
 
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adil-java&style=flat-square&color=6366f1" alt="Profile Views" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=20&fontColor=fff&animation=twinkling" width="100%" />
