@@ -8,8 +8,7 @@
 <a href=https://adil-java.github.io/AdilJaved_CV.pdf>
     <img src="https://img.shields.io/badge/📄_Download_CV-6366F1?style=for-the-badge&logoColor=white" alt="Download CV" />
   </a>
-  <img width="10" />
-  <img src="https://komarev.com/ghpvc/?username=adil-java&style=for-the-badge&color=6366f1" alt="Profile Views" />
+ 
 </p>
 
 ---
@@ -185,4 +184,7 @@ const adil = {
   <a href="https://linktr.ee/adiljaved">
     <img src="https://img.shields.io/badge/Let's_Connect-6366F1?style=for-the-badge&logo=handshake&logoColor=white" alt="Connect" />
   </a>
+   <img width="10" />
+  <img src="https://komarev.com/ghpvc/?username=adil-java&style=for-the-badge&color=6366f1" alt="Profile Views" />
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%" />
