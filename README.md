@@ -3,11 +3,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Crafting+RESTful+APIs+%26+Microservices;Turning+Ideas+into+Production+Code" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <a href="https://adil-java.github.io/AdilJaved_CV.pdf">
+ <a href="https://adil-java.github.io/AdilJaved_CV.pdf">
     <img src="https://img.shields.io/badge/📄_DownloadCV-6366F1?style=for-the-badge&logoColor=white" alt="Download CV" />
   </a>
+<p align="center">
+ 
   <a href="https://www.linkedin.com/in/adil-javed082004/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
