@@ -1,11 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adil%20Javed&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Backend%20Specialist&descAlignY=52&descSize=18" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Crafting+RESTful+APIs+%26+Microservices;Turning+Ideas+into+Production+Code" alt="Typing SVG" />
-</div>
- <a href="https://adil-java.github.io/AdilJaved_CV.pdf">
-    <img src="https://img.shields.io/badge/📄_DownloadCV-6366F1?style=for-the-badge&logoColor=white" alt="Download CV" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Crafting+RESTful+APIs+%26+Microservices;Turning+Ideas+into+Production+Code"
+    alt="Typing SVG"
+  />
+  <br /><br />
+  <a href="https://adil-java.github.io/AdilJaved_CV.pdf">
+    <img
+      src="https://img.shields.io/badge/📄_Download-CV-6366F1?style=for-the-badge&logoColor=white"
+      alt="Download CV"
+    />
   </a>
+</div>
+
+
 <p align="center">
  
   <a href="https://www.linkedin.com/in/adil-javed082004/">
@@ -98,10 +107,9 @@ const adil: Developer = {
 ###  Mobile
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=reactnative,android,apple"
-    alt="Native Mobile"
-  />
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
+<img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" />
+
 </p>
 
 
