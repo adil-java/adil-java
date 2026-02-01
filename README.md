@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://adil-java.github.io/AdilJaved_CV.pdf">
-    <img src="https://img.shields.io/badge/📄_Resume-6366F1?style=for-the-badge&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/📄_DownloadCV-6366F1?style=for-the-badge&logoColor=white" alt="Download CV" />
   </a>
   <a href="https://www.linkedin.com/in/adil-javed082004/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://adiljava.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linktr.ee/adiljaved">
     <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
