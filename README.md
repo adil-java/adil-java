@@ -1,4 +1,7 @@
 <div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-javed082004/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adiljavaid125@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white)]([https://adiljava.netlify.app/](https://adiljava.netlify.app/))
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Adil+Javed;Backend+Developer+%7C+API+Architect;Building+Scalable+Server+Solutions" alt="Typing SVG" />
 </div>
 
