@@ -1,161 +1,68 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adil%20Javed&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Backend%20Specialist&descAlignY=52&descSize=18" width="100%" />
+
 <div align="center">
- 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Adil+Javed;Backend+Developer+%7C+API+Architect;Building+Scalable+Server+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Crafting+RESTful+APIs+%26+Microservices;Turning+Ideas+into+Production+Code" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Full Stack Developer from Pakistan | Crafting Robust APIs & Scalable Systems</h3>
+<p align="center">
+  <a href="https://adil-java.github.io/AdilJaved_CV.pdf">
+    <img src="https://img.shields.io/badge/📄_Resume-6366F1?style=for-the-badge&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/adil-javed082004/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adiljavaid125@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://adiljava.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linktr.ee/adiljaved">
+    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
+</p>
 
 <p align="center">
-<a href=https://adil-java.github.io/AdilJaved_CV.pdf>
-    <img src="https://img.shields.io/badge/📄_Download_CV-6366F1?style=for-the-badge&logoColor=white" alt="Download CV" />
-  </a>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-javed082004/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adiljavaid125@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white)]([https://adiljava.netlify.app/](https://adiljava.netlify.app/))
+  <img src="https://komarev.com/ghpvc/?username=adil-java&style=flat-square&color=6366f1" alt="Profile Views" />
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-```javascript
-const adil = {
-  role: "Full Stack Developer",
+```typescript
+const adil: Developer = {
   location: "Pakistan 🇵🇰",
-  currentFocus: "Building RESTful APIs & Microservices",
-  learning: ["System Design", "Cloud Architecture", "DevOps"],
-  askMeAbout: ["Node.js", "Express", "Databases", "API Design"],
-  funFact: "I debug with console.log and I'm not ashamed ",
+  role: "Full Stack Developer",
+  specialization: "Backend Development & API Architecture",
+  
+  currentlyWorking: [
+    "Building scalable RESTful APIs",
+    "Real-time applications with Socket.io",
+    "Cloud-native microservices"
+  ],
+  
+  learning: ["System Design", "AWS", "DevOps", "Flutter"],
+  
+  passions: [
+    "Clean & maintainable code",
+    "Performance optimization",
+    "Open source contribution"
+  ],
+  
+  funFact: "I debug with console.log and I'm proud of it! 😄"
 };
 ```
 
-- Currently building **scalable backend systems** and **RESTful APIs**
-- Exploring **microservices architecture** and **cloud technologies**
-- Ask me about **Node.js, Express, MongoDB, MySQL, API Design**
-- Passionate about writing **clean, efficient, and maintainable code**
-
----
-
-## Backend Tech Stack
-
-<div align="center">
-
-###  Languages & Runtimes
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp" />
-</p>
-
-### Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" height="35" alt="fastify" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="35" alt="socketio" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="35" alt="jwt" />
-</p>
-
-### Databases & Storage
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis" />
-</p>
-
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode" />
-</p>
-
-###  Cloud & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" height="35" alt="railway" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="35" alt="render" />
-</p>
-
-</div>
-
----
-
-##  What I Do
-
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### 🔌 API Development
-
-- RESTful API Design & Implementation
-- GraphQL Integration
-- API Documentation (Swagger/OpenAPI)
-- Rate Limiting & Security
-
-</td>
-<td width="50%">
-
-###  Database Management
-
-- Schema Design & Optimization
-- Query Performance Tuning
-- Data Migration & Backup
-- ORM/ODM Implementation
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-###  Authentication & Security
-
-- JWT & OAuth Implementation
-- Role-Based Access Control
-- Password Hashing & Encryption
-- Input Validation & Sanitization
-
-</td>
-<td width="50%">
-
-###  Performance & Scalability
-
-- Caching Strategies (Redis)
-- Load Balancing Concepts
-- Asynchronous Processing
-- Code Optimization
+- 🔭 Currently working on **production-grade backend systems**
+- 🌱 Exploring **cloud architecture** & **containerization**
+- 💬 Ask me about **Node.js, APIs, Databases, System Design**
+- 🎯 Goal: Building tech that makes a difference
+- ⚡ When not coding: Learning, exploring new tech, coffee ☕
 
 </td>
 </tr>
@@ -163,17 +70,94 @@ const adil = {
 
 ---
 
-##  GitHub Analytics
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adil-java&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" height="180" alt="stats graph" />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adil-java&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" height="150" alt="languages graph" />
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,cs" alt="Languages" />
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastify" alt="Backend" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" alt="Databases" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" />
+</p>
+
+### 📱 Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github" alt="Cloud & DevOps" />
+</p>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adil-java&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" height="300" alt="activity-graph" />
-</div>
+---
+
+##  What I Do Best
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔌 API Development
+- RESTful & GraphQL API Design
+- API Documentation (Swagger/OpenAPI)
+- Rate Limiting & Throttling
+- Versioning & Best Practices
+
+</td>
+<td width="50%" valign="top">
+
+### 🗃️ Database Engineering
+- Schema Design & Optimization
+- Query Performance Tuning
+- Data Migration Strategies
+- ORM/ODM Implementation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Security & Auth
+- JWT & OAuth 2.0 Implementation
+- Role-Based Access Control (RBAC)
+- Encryption & Secure Storage
+- Input Validation & Sanitization
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Performance & Scale
+- Caching Strategies (Redis)
+- Async Processing & Queues
+- Load Balancing Concepts
+- Code & Query Optimization
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -181,13 +165,26 @@ const adil = {
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=%22First%2C+solve+the+problem.%22;%22Then%2C+write+the+code.%22;-+John+Johnson" alt="Quote" />
 </div>
 
+---
+
 <div align="center">
-  <b> Open for Backend Development Opportunities!</b>
-  <br><br>
-  <a href="https://linktr.ee/adiljaved">
-    <img src="https://img.shields.io/badge/Let's_Connect-6366F1?style=for-the-badge&logo=handshake&logoColor=white" alt="Connect" />
-  </a>
-   <img width="10" />
-  <img src="https://komarev.com/ghpvc/?username=adil-java&style=for-the-badge&color=6366f1" alt="Profile Views" />
+  
+### 🤝 Let's Connect & Build Something Amazing!
+
+<p>
+  <b>💼 Open for Backend Development & Full Stack Opportunities</b>
+</p>
+
+<a href="https://www.linkedin.com/in/adil-javed082004/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:adiljavaid125@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://adiljava.netlify.app/">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=20&fontColor=fff&animation=twinkling" width="100%" />
