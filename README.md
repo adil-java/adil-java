@@ -50,7 +50,7 @@ const adil: Developer = {
     "Open source contribution"
   ],
   
-  funFact: "I debug with console.log and I'm proud of it! 😄"
+  funFact: "I debug with console.log and I'm proud of it! "
 };
 ```
 
@@ -58,11 +58,11 @@ const adil: Developer = {
 <tr>
 <td>
 
-- 🔭 Currently working on **production-grade backend systems**
-- 🌱 Exploring **cloud architecture** & **containerization**
-- 💬 Ask me about **Node.js, APIs, Databases, System Design**
-- 🎯 Goal: Building tech that makes a difference
-- ⚡ When not coding: Learning, exploring new tech, coffee ☕
+- Currently working on **production-grade backend systems**
+- Exploring **cloud architecture** & **containerization**
+- Ask me about **Node.js, APIs, Databases, System Design**
+- Goal: Building tech that makes a difference
+- When not coding: Learning, exploring new tech, coffee ☕
 
 </td>
 </tr>
@@ -70,41 +70,45 @@ const adil: Developer = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,cs" alt="Languages" />
 </p>
 
-### ⚙️ Backend & Frameworks
+###  Backend & Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastify" alt="Backend" />
 </p>
 
-### 🗄️ Databases
+###  Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" alt="Databases" />
 </p>
 
-### 🎨 Frontend
+###  Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" />
 </p>
 
-### 📱 Mobile
+###  Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile" />
+  <img
+    src="https://skillicons.dev/icons?i=reactnative,android,apple"
+    alt="Native Mobile"
+  />
 </p>
 
-### ☁️ Cloud & DevOps
+
+### Cloud & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github" alt="Cloud & DevOps" />
@@ -120,7 +124,7 @@ const adil: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔌 API Development
+###  API Development
 - RESTful & GraphQL API Design
 - API Documentation (Swagger/OpenAPI)
 - Rate Limiting & Throttling
@@ -129,7 +133,7 @@ const adil: Developer = {
 </td>
 <td width="50%" valign="top">
 
-### 🗃️ Database Engineering
+### Database Engineering
 - Schema Design & Optimization
 - Query Performance Tuning
 - Data Migration Strategies
@@ -140,7 +144,7 @@ const adil: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Security & Auth
+### Security & Auth
 - JWT & OAuth 2.0 Implementation
 - Role-Based Access Control (RBAC)
 - Encryption & Secure Storage
@@ -149,7 +153,7 @@ const adil: Developer = {
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Performance & Scale
+### Performance & Scale
 - Caching Strategies (Redis)
 - Async Processing & Queues
 - Load Balancing Concepts
@@ -174,16 +178,6 @@ const adil: Developer = {
 <p>
   <b>💼 Open for Backend Development & Full Stack Opportunities</b>
 </p>
-
-<a href="https://www.linkedin.com/in/adil-javed082004/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:adiljavaid125@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://adiljava.netlify.app/">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
 
 </div>
 
