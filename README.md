@@ -168,13 +168,6 @@ const adil: Developer = {
 </tr>
 </table>
 
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=%22First%2C+solve+the+problem.%22;%22Then%2C+write+the+code.%22;-+John+Johnson" alt="Quote" />
-</div>
-
----
 
 <div align="center">
   
