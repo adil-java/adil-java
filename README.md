@@ -44,7 +44,7 @@ const adil: Developer = {
     "Real-time applications with Socket.io",
     "Cloud-native microservices"
   ],
-  experience:React & Typescript Developer @ shiftedSol,
+  experience:"React & Typescript Developer @ shiftedSol",
   
   learning: ["System Design", "DevOps", ".Net"],
   
