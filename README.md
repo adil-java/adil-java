@@ -30,8 +30,6 @@
     <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </p>
-
-
 ---
 
 ## 👨‍💻 About Me
