@@ -30,7 +30,6 @@
     <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </p>
----
 
 ## 👨‍💻 About Me
 
@@ -45,8 +44,9 @@ const adil: Developer = {
     "Real-time applications with Socket.io",
     "Cloud-native microservices"
   ],
+experience:React & Typescript Developer @ shiftedSol
   
-  learning: ["System Design", "AWS", "DevOps", "Flutter"],
+  learning: ["System Design", "DevOps", ".Net"],
   
   passions: [
     "Clean & maintainable code",
@@ -72,7 +72,6 @@ const adil: Developer = {
 </tr>
 </table>
 
----
 
 ## Tech Stack
 
@@ -119,7 +118,6 @@ const adil: Developer = {
 
 </div>
 
----
 
 ##  What I Do Best
 
